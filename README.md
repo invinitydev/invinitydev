@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C# AND Unity Development
 - 📫 Reach me by DM'ing me!
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I'm only 13!
+- ⚡ Fun fact: I'm only 14!
 
 <!---
 invinitydev/invinitydev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
